@@ -21,7 +21,11 @@ My name is Charles, and I'm a a computer science student . Here on my GitHub, yo
 Some of the technologies and programming languages that I'm proficient in include Golang , Python ,javascript . 
 I enjoy using these tools to create unique and innovative solutions to problems.
 
-In addition to my work on GitHub, I'm also active on Linkedin ,StackOverflow and  Twitter]. I believe that sharing knowledge and collaborating with others is crucial to the growth of the tech industry.
+In addition to my work on GitHub, I'm also active on:<br>
+<a href="https://www.linkedin.com/in/momanyi-charles-b52b96250">Linkedin</a> <br>
+ <a href="">StackOverflow </a><br>
+ <a href="">Twitter</a>.<br>
+I believe that sharing knowledge and collaborating with others is crucial to the growth of the tech industry.
 
 If you have any questions or comments about my projects, feel free to contact me. I'm always open to feedback and collaboration!
 
