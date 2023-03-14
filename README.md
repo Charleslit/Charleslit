@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Welcome to my GitHub profile!
 
-My name is Charles, and I'm a a computer science student . Here on my GitHub, you'll find various projects and code snippets that I've created over the years. I enjoy working on projects that challenge me and allow me to learn and grow as a developer.
+<img src=" https://github.com/charles" title="My name is Charles" alt="My name is Charles" width="40" height="40"/>&nbsp;, and I'm a a computer science student . Here on my GitHub, you'll find various projects and code snippets that I've created over the years. I enjoy working on projects that challenge me and allow me to learn and grow as a developer.
 
 Some of the technologies and programming languages that I'm proficient in include Golang , Python ,javascript . 
 I enjoy using these tools to create unique and innovative solutions to problems.
