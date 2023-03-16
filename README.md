@@ -30,6 +30,7 @@ I believe that sharing knowledge and collaborating with others is crucial to the
 If you have any questions or comments about my projects, feel free to contact me. I'm always open to feedback and collaboration!
 
 Thank you for visiting my GitHub profile. I hope you find something here that inspires you or helps you in your own development journey<br>
+<hr>
 <button>skills</button>
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
