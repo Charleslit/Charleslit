@@ -14,19 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my GitHub profile!
+Welcome to my GitHub profile!<br>
+`Charles` is a computer science student . Here, you'll find various projects and code snippets that I've created over the years. I enjoy working on projects that challenge me and allow me to learn and grow as a developer.
 
-<img src=" https://github.com/charles" title="My name is Charles" alt="My name is Charles" width="40" height="40"/>&nbsp;, and I'm a a computer science student . Here on my GitHub, you'll find various projects and code snippets that I've created over the years. I enjoy working on projects that challenge me and allow me to learn and grow as a developer.
-
-Some of the technologies and programming languages that I'm proficient in include Golang , Python ,javascript . 
+Some of the technologies and programming languages that I'm proficient in include `Golang` , `Python` ,`javascript` . 
 I enjoy using these tools to create unique and innovative solutions to problems.
 
 In addition to my work on GitHub, I'm also active on:<br>
-<a href="https://www.linkedin.com/in/momanyi-charles-b52b96250">Linkedin</a> <br>
+`<a href="https://www.linkedin.com/in/momanyi-charles-b52b96250">Linkedin</a> <br>
  <a href="">StackOverflow </a><br>
  <a href="https://twitter.com/PowerLitmus">Twitter</a>.<br>
 I believe that sharing knowledge and collaborating with others is crucial to the growth of the tech industry.
-
+`
 If you have any questions or comments about my projects, feel free to contact me. I'm always open to feedback and collaboration!
 
 Thank you for visiting my GitHub profile. I hope you find something here that inspires you or helps you in your own development journey<br>
