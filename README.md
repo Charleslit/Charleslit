@@ -1,45 +1,36 @@
-### Hi there 👋
+# Hello, I'm Charles Momanyi 👋
 
-<!--
-**Charleslit/Charleslit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 BSc Computer Science graduate from the University of Eldoret  
+👨‍💻 3 years of experience as a Full Stack Developer  
+🌐 Passionate about web and mobile app development  
+🔍 Keen on solving real-world problems through technology  
+🌍 Based in Nairobi, Kenya  
+📱 Mobile development enthusiast with skills in Kotlin, Java, and React Native  
+💼 Freelancer who thrives on remote work and short-term impactful projects  
 
-Here are some ideas to get you started:
+## Technical Skills
+- **Languages**: Python, JavaScript (Next.js, React), Kotlin, Java
+- **Frameworks**: Node.js, Django, Flask
+- **Tools**: Git, Docker, Jenkins, CI/CD Pipelines
+- **Databases**: MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
- 🌱 I’m currently learning https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Welcome to my GitHub profile!<br>
-`Charles` is a computer science student . Here, you'll find various projects and code snippets that I've created over the years. I enjoy working on projects that challenge me and allow me to learn and grow as a developer.
 
-Some of the technologies and programming languages that I'm proficient in include `Golang` , `Python` ,`javascript` . 
-I enjoy using these tools to create unique and innovative solutions to problems.
 
-In addition to my work on GitHub, I'm also active on:<br>
-<a href="https://www.linkedin.com/in/momanyi-charles-b52b96250">`Linkedin`</a> <br>
- <a href="">`StackOverflow` </a><br>
- <a href="https://twitter.com/PowerLitmus">`Twitter`</a>.<br>
-I believe that sharing knowledge and collaborating with others is crucial to the growth of the tech industry.
+## My Work Philosophy
+- **Flexibility**: Embracing the freedom to choose projects that excite me
+- **Diversity**: Constantly learning from a variety of technical challenges
+- **Autonomy**: Steering my career path with strategic decisions
 
-If you have any questions or comments about my projects, feel free to contact me. I'm always open to feedback and collaboration!
+## What I'm Looking For
+- 🚀 Projects that push the envelope in mobile and web development
+- 🤝 Collaborations with teams that value innovation and creativity
+- 🌱 Opportunities to grow and refine my technical and soft skills
 
-Thank you for visiting my GitHub profile. I hope you find something here that inspires you or helps you in your own development journey<br>
-<hr>
-<button>skills</button>
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src=" https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+## Let's Connect
+Feel free to reach out for collaborations or just a chat about tech and innovation.  
+[https://www.linkedin.com/in/momanyi-charles-b52b96250/] | [] | [momanyicharles109@gmail.com]
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-</div>
+---
+
+Remember to replace the placeholders with your actual contact information. This `README.md` is designed to give visitors an insight into who you are as a professional and what you're passionate about. Good luck with your GitHub profile, Charles! 🚀
