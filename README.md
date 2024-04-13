@@ -31,6 +31,4 @@
 Feel free to reach out for collaborations or just a chat about tech and innovation.  
 [https://www.linkedin.com/in/momanyi-charles-b52b96250/] | [] | [momanyicharles109@gmail.com]
 
----
 
-Remember to replace the placeholders with your actual contact information. This `README.md` is designed to give visitors an insight into who you are as a professional and what you're passionate about. Good luck with your GitHub profile, Charles! 🚀
